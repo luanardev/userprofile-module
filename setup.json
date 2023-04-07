@@ -1,0 +1,7 @@
+{
+    "name": "My Profile",
+    "group": "client",
+	"icon": "fa fa-user",
+    "color": "#17a2b8",
+    "background": "rgba(22, 160, 133, 0.1)"
+}

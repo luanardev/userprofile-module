@@ -1,0 +1,13 @@
+{
+    "name": "Userprofile",
+    "alias": "userprofile",
+    "description": "",
+    "keywords": [],
+    "priority": 4,
+    "providers": [
+        "Lumis\\Userprofile\\Providers\\UserprofileServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
